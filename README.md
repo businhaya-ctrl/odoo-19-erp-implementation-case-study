@@ -24,8 +24,6 @@ Simulated end-to-end Odoo 19 ERP implementation for a medical supplies trading c
 
 - Business Analysis
 
-- BRD
-
 - Inventory Reconciliation
 
 - Inventory Valuation (FIFO & AVCO)
@@ -63,8 +61,6 @@ Simulated end-to-end Odoo 19 ERP implementation for a medical supplies trading c
 See the attached PDF for the complete case study. Functional Areas
 
 - Business Analysis
-
-- BRD
 
 - Inventory Reconciliation
 
