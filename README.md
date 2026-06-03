@@ -101,3 +101,4 @@ See the attached PDF for the complete case study. Functional Areas
 ## Full Documentation
 
 See the attached PDF for the complete case study.
+Prepared by Haya Salah | Odoo Functional Consultant & Business Analyst
